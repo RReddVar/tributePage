@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>FCC Test: Tribute Page</title>
+	<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="tribute.css">
+
+</head>
+<body>
+
+	<div id="main">
+		<div id="container">
+			<div id="title">
+				<h1>Jack Kirby</h1>
+				<p>Remembering a Legend....</p>
+				</div>
+			<div id="img-div">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Jack-Kirby_art-of-jack-kirby_wyman-skaar.jpg" id="image" alt="Jack Kirby photo by Susan Skaar">
+				<p id="img-caption">An American comic book artist, writer, and editor, widely regarded as one of the medium's major innovators and one of its most prolific and influential creators.</p>
+			</div>
+
+			<hr>
+
+			<div id="tribute-info">
+					<h3 class="content-title">Entry into comics (1936–1940)</h3>
+					<p>Kirby joined the Lincoln Newspaper Syndicate in 1936, working there on newspaper comic strips and on single-panel advice cartoons such as Your Health Comes First!!! (under the pseudonym Jack Curtiss). He remained until late 1939, when he began working for the movie animation company Fleischer Studios as an inbetweener on Popeye cartoons.</p>
+				
+					<h3 class="content-title">Marvel Comics in the Silver Age (1958–1970)</h3>
+					<p>It was at Marvel, in collaborating with writer and editor-in-chief Lee that Kirby hit his stride once again in superhero comics, beginning with The Fantastic Four #1 (Nov. 1961). The landmark series became a hit that revolutionized the industry with its comparative naturalism and, eventually, a cosmic purview informed by Kirby's seemingly boundless imagination—one well-matched with the consciousness-expanding youth culture of the 1960s. For almost a decade, Kirby provided Marvel's house style, co-creating with Stan Lee many of the Marvel characters and designing their visual motifs. </p>
+			
+					<h3 class="content-title">DC Comics and the Fourth World saga (1971–1975)</h3>
+					<p>Kirby spent nearly two years negotiating a deal to move to DC Comics where in late 1970 he signed a three-year contract with an option for two additional years. He produced a series of interlinked titles under the blanket sobriquet "The Fourth World", which included a trilogy of new titles — New Gods, Mister Miracle, and The Forever People — as well as the extant Superman's Pal Jimmy Olsen. Kirby later produced other DC series such as OMAC, Kamandi, The Demon, and Kobra, and worked on such extant features as "The Losers" in Our Fighting Forces.</p>
+				
+					<h3 class="content-title">Return to Marvel (1976–1978)</h3>
+					<p>Back at Marvel, Kirby both wrote and drew the monthly Captain America series as well as the Captain America's Bicentennial Battles one-shot in the oversized treasury format. He created the series The Eternals, which featured a race of inscrutable alien giants, the Celestials, whose behind-the-scenes intervention in primordial humanity would eventually become a core element of Marvel Universe continuity. He produced an adaptation and expansion of the film 2001: A Space Odyssey, as well as an abortive attempt to do the same for the classic television series The Prisoner. He wrote and drew Black Panther and drew numerous covers across the line.</p>
+					<h4>To find out more, click here: <a href="https://en.wikipedia.org/wiki/Jack_Kirby" alt="Wikipedia link" target="_blank" id="tribute-link">Wikipedia</a></h4>
+					<p id="tradeMark">Coded by JM Christian 2018</p>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
